@@ -1,0 +1,11 @@
+framework module flutter_inappbrowser {
+  umbrella header "flutter_inappbrowser-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module flutter_inappbrowser.Swift {
+    header "flutter_inappbrowser-Swift.h"
+    requires objc
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>624910742242-j6k93tshbprvimsbua62jkg9deb3pc7s.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.624910742242-j6k93tshbprvimsbua62jkg9deb3pc7s</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>624910742242-5oluik21oilelmfupfubnuuumivgheoc.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBP0N5cr7n1RllocxnPVoDhiiAlDy07yfQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>624910742242</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.digitalveins.alaatasa</string>
+	<key>PROJECT_ID</key>
+	<string>alaatasa</string>
+	<key>STORAGE_BUCKET</key>
+	<string>alaatasa.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:624910742242:ios:dce5d5117191b1734924bb</string>
+	<key>DATABASE_URL</key>
+	<string>https://alaatasa.firebaseio.com</string>
+</dict>
+</plist>

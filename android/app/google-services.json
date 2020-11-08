@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "624910742242",
+    "firebase_url": "https://alaatasa.firebaseio.com",
+    "project_id": "alaatasa",
+    "storage_bucket": "alaatasa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624910742242:android:9d0d46cdab6af5094924bb",
+        "android_client_info": {
+          "package_name": "com.digitalveins.alaatasa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624910742242-5oluik21oilelmfupfubnuuumivgheoc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digitalveins.alaatasa",
+            "certificate_hash": "d746524942666c01c58e257f5f036241f38676f0"
+          }
+        },
+        {
+          "client_id": "624910742242-p24lf69421v8sepmv2khfjtektrtr0jr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digitalveins.alaatasa",
+            "certificate_hash": "d38dd8f98353cc21bbe81dda1014f26a2c21e8b0"
+          }
+        },
+        {
+          "client_id": "624910742242-p7d2rjm0eauples7t3hk3f0cloardsbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA35Bi1zoyiqAaJl6HIgNuRF2MYX74sop0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624910742242-c2m4k9ftrhtb7g7jqael1vh07cjjruu1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "624910742242-j6k93tshbprvimsbua62jkg9deb3pc7s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.digitalveins.alaatasa",
+                "app_store_id": "1530022834"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624910742242:android:f60674c63c9ee6e54924bb",
+        "android_client_info": {
+          "package_name": "com.digitalveins.alatasa.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624910742242-p7d2rjm0eauples7t3hk3f0cloardsbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA35Bi1zoyiqAaJl6HIgNuRF2MYX74sop0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624910742242-c2m4k9ftrhtb7g7jqael1vh07cjjruu1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "624910742242-j6k93tshbprvimsbua62jkg9deb3pc7s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.digitalveins.alaatasa",
+                "app_store_id": "1530022834"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

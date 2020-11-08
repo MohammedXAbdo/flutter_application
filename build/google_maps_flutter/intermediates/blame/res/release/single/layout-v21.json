@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/mohammedabdo/Desktop/flutter_application/build/google_maps_flutter/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/mohammedabdo/.gradle/caches/transforms-2/files-2.1/7b4c54b05abfe32c04b6fb9596cf35c8/core-1.1.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/mohammedabdo/Desktop/flutter_application/build/google_maps_flutter/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/mohammedabdo/.gradle/caches/transforms-2/files-2.1/7b4c54b05abfe32c04b6fb9596cf35c8/core-1.1.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/mohammedabdo/Desktop/flutter_application/build/google_maps_flutter/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/mohammedabdo/.gradle/caches/transforms-2/files-2.1/7b4c54b05abfe32c04b6fb9596cf35c8/core-1.1.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/mohammedabdo/Desktop/flutter_application/build/google_maps_flutter/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/mohammedabdo/.gradle/caches/transforms-2/files-2.1/7b4c54b05abfe32c04b6fb9596cf35c8/core-1.1.0/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

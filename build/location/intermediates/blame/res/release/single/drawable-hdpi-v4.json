@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/mohammedabdo/Desktop/flutter_application/build/location/intermediates/res/merged/release/drawable-hdpi-v4/common_full_open_on_phone.png",
+        "source": "/Users/mohammedabdo/.gradle/caches/transforms-2/files-2.1/05767fd2624eaf23e0ede0ed557321f9/jetified-play-services-base-16.0.1/res/drawable-hdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/mohammedabdo/Desktop/flutter_application/build/location/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/mohammedabdo/.gradle/caches/transforms-2/files-2.1/7b4c54b05abfe32c04b6fb9596cf35c8/core-1.1.0/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/mohammedabdo/Desktop/flutter_application/build/location/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/mohammedabdo/.gradle/caches/transforms-2/files-2.1/7b4c54b05abfe32c04b6fb9596cf35c8/core-1.1.0/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/mohammedabdo/Desktop/flutter_application/build/location/intermediates/res/merged/release/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/mohammedabdo/.gradle/caches/transforms-2/files-2.1/7b4c54b05abfe32c04b6fb9596cf35c8/core-1.1.0/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/mohammedabdo/Desktop/flutter_application/build/location/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/mohammedabdo/.gradle/caches/transforms-2/files-2.1/7b4c54b05abfe32c04b6fb9596cf35c8/core-1.1.0/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/mohammedabdo/Desktop/flutter_application/build/location/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/Users/mohammedabdo/.gradle/caches/transforms-2/files-2.1/05767fd2624eaf23e0ede0ed557321f9/jetified-play-services-base-16.0.1/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/mohammedabdo/Desktop/flutter_application/build/location/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/Users/mohammedabdo/.gradle/caches/transforms-2/files-2.1/05767fd2624eaf23e0ede0ed557321f9/jetified-play-services-base-16.0.1/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/mohammedabdo/Desktop/flutter_application/build/location/intermediates/res/merged/release/drawable-hdpi-v4/googleg_standard_color_18.png",
+        "source": "/Users/mohammedabdo/.gradle/caches/transforms-2/files-2.1/05767fd2624eaf23e0ede0ed557321f9/jetified-play-services-base-16.0.1/res/drawable-hdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/mohammedabdo/Desktop/flutter_application/build/location/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/mohammedabdo/.gradle/caches/transforms-2/files-2.1/7b4c54b05abfe32c04b6fb9596cf35c8/core-1.1.0/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/mohammedabdo/Desktop/flutter_application/build/location/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/Users/mohammedabdo/.gradle/caches/transforms-2/files-2.1/05767fd2624eaf23e0ede0ed557321f9/jetified-play-services-base-16.0.1/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/mohammedabdo/Desktop/flutter_application/build/location/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/Users/mohammedabdo/.gradle/caches/transforms-2/files-2.1/05767fd2624eaf23e0ede0ed557321f9/jetified-play-services-base-16.0.1/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/mohammedabdo/Desktop/flutter_application/build/location/intermediates/res/merged/release/drawable-hdpi-v4/googleg_disabled_color_18.png",
+        "source": "/Users/mohammedabdo/.gradle/caches/transforms-2/files-2.1/05767fd2624eaf23e0ede0ed557321f9/jetified-play-services-base-16.0.1/res/drawable-hdpi-v4/googleg_disabled_color_18.png"
+    }
+]

@@ -1,0 +1,11 @@
+framework module google_map_location_picker {
+  umbrella header "google_map_location_picker-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module google_map_location_picker.Swift {
+    header "google_map_location_picker-Swift.h"
+    requires objc
+}
